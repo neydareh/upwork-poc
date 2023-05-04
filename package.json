@@ -1,0 +1,22 @@
+{
+  "name": "upwork-poc",
+  "version": "1.0.0",
+  "description": "This is a proposal for the upwork playwright project",
+  "main": "index.js",
+  "scripts": {
+    "test:playwright": "playwright test"
+  },
+  "keywords": [
+    "poc",
+    "playwright"
+  ],
+  "author": "Olakunle E Neye",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.33.0",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
